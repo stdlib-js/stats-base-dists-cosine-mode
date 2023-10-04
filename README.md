@@ -67,7 +67,7 @@ The [mode][mode] for a [raised cosine][cosine-distribution] random variable with
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mode@v0.1.1-deno/mod.js';
 ```
 
 #### mode( mu, s )
@@ -127,7 +127,7 @@ y = mode( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mode@v0.1.1-deno/mod.js';
 
 var mu;
 var s;
