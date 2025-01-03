@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-01-03)
+
+<section class="features">
+
+### Features
+
+-   [`d5e0a74`](https://github.com/stdlib-js/stdlib/commit/d5e0a74ba2ba7a4632a1d31b2b949c4b42bec323) - add C implementation for `stats/base/dists/cosine/mode` [(#4476)](https://github.com/stdlib-js/stdlib/pull/4476)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3521](https://github.com/stdlib-js/stdlib/issues/3521)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`d5e0a74`](https://github.com/stdlib-js/stdlib/commit/d5e0a74ba2ba7a4632a1d31b2b949c4b42bec323) - **feat:** add C implementation for `stats/base/dists/cosine/mode` [(#4476)](https://github.com/stdlib-js/stdlib/pull/4476) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
