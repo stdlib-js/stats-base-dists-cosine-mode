@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-10-01)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3521](https://github.com/stdlib-js/stdlib/issues/3521)
+[#3521](https://github.com/stdlib-js/stdlib/issues/3521), [#8168](https://github.com/stdlib-js/stdlib/issues/8168)
 
 </section>
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`97684e4`](https://github.com/stdlib-js/stdlib/commit/97684e405691f707a532d542ea0f4ea106234588) - **chore:** fix EditorConfig lint errors [(#8178)](https://github.com/stdlib-js/stdlib/pull/8178) _(by navyansh007, Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`2ad245f`](https://github.com/stdlib-js/stdlib/commit/2ad245f8ea17a02a55fb41de90a7d6ee7c738c87) - **bench:** update random value generation [(#7094)](https://github.com/stdlib-js/stdlib/pull/7094) _(by Harsh)_
 -   [`5bed283`](https://github.com/stdlib-js/stdlib/commit/5bed2837d020e3ea6f8452e85b0f7008d4d76b68) - **docs:** replace manual `for` loop in examples [(#7075)](https://github.com/stdlib-js/stdlib/pull/7075) _(by Harsh)_
 -   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
@@ -58,13 +60,14 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
+-   navyansh007
 
 </section>
 
