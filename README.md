@@ -67,7 +67,7 @@ The [mode][mode] for a [raised cosine][cosine-distribution] random variable with
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mode@v0.3.1-deno/mod.js';
 ```
 
 #### mode( mu, s )
@@ -128,7 +128,7 @@ y = mode( 0.0, -1.0 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mode@v0.3.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
